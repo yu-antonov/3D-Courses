@@ -272,22 +272,22 @@ a {
 }
 
 .courses-1 {
-    background: url(/img/courses_1.jpg) center;
+    background: url(../img/courses_1.jpg) center;
     background-size: cover;
 }
 
 .courses-2 {
-    background: url(/img/courses_2.jpg) center;
+    background: url(../img/courses_2.jpg) center;
     background-size: cover;
 }
 
 .courses-3 {
-    background: url(/img/courses_3.jpg) center;
+    background: url(../img/courses_3.jpg) center;
     background-size: cover;
 }
 
 .courses-4 {
-    background: url(/img/courses_4.jpg) center;
+    background: url(../img/courses_4.jpg) center;
     background-size: cover;
 }
 
